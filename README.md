@@ -13,4 +13,4 @@ Abrir [http://localhost:3000](http://localhost:3000) en su navegador.
 - [https://sequelize.org/](Sequelize)
 - [https://nextjs.org/](Nextjs)
 - Db Sqlite3
-- [https://react-bootstrap.netlify.app/](React Bootstrap)
+- [https://react-bootstrap.netlify.app/](React-Bootstrap)
