@@ -10,7 +10,7 @@ npm run dev
 Abrir [http://localhost:3000](http://localhost:3000) en su navegador.
 
 ## Librerias utilizadas
-- Sequelize
-- Nextjs
+- [https://sequelize.org/](Sequelize)
+- [https://nextjs.org/](Nextjs)
 - Db Sqlite3
-- Bootstrap
+- [https://react-bootstrap.netlify.app/](React Bootstrap)
